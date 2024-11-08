@@ -1,0 +1,2 @@
+long_variable_name_also_created_in_python = 25000
+print(long_variable_name_also_created_in_python)
