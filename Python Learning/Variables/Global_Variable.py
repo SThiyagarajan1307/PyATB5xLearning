@@ -1,7 +1,7 @@
 # x = "awesome"
 #
 # def myfunc():
-#   print("Python is " + x)
+#   print("Python Selenium is " + x)
 #
 # myfunc()
 #
@@ -9,11 +9,11 @@
 
 # def myfunc():
 #   x = "fantastic"
-#   print("Python is " + x)
+#   print("Python Selenium is " + x)
 #
 # myfunc()
 #
-# print("Python is " + x)
+# print("Python Selenium is " + x)
 
 # def myfunc():
 #   global x
@@ -21,7 +21,7 @@
 #
 # myfunc()
 #
-# print("Python is " + x)
+# print("Python Selenium is " + x)
 
 x = "awesome"
 
@@ -32,4 +32,4 @@ def myfunc():
 
 myfunc()
 
-print("Python is " + x)
+print("Python Selenium is " + x)

@@ -1,4 +1,4 @@
-# Method Overloading is Not Supported - Python
+# Method Overloading is Not Supported - Python Selenium
 class Calc:
     def sum(self, a, b):
         return a + b

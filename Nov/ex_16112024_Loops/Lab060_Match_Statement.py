@@ -1,6 +1,6 @@
 # Match Statement -> # Switch in Java
 # match the op and execute
-# Python > 3.10
+# Python Selenium > 3.10
 
 # match variable:
 #     case pattern1:

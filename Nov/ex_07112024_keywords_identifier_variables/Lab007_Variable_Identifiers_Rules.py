@@ -8,7 +8,7 @@ Age = 25
 # They start with a letter (A-Z or a-z)
 # an underscore (_) followed by zero or more letters.
 # underscores, and digits (0-9).
-# Python is case-sensitive name, Name both are different.
+# Python Selenium is case-sensitive name, Name both are different.
 
 Age12 = 25000000000000000
 _age = 65

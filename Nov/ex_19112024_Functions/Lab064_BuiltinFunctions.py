@@ -1,6 +1,6 @@
 import math
 
-# Built Functions (Python Guys)
+# Built Functions (Python Selenium Guys)
 # math.pow(2,3)
 # input()
 # print()
